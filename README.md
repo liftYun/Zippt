@@ -39,7 +39,9 @@
         - JWT 를 활용한 인증/인가 요청 및 회원정보 수정 화면 작업
         - AI 요약 및 평가 기능 컴포넌트 작업
     - BACKEND
-        - Spring Security 적용 및 회원 도메인 작업
+        - Spring Security 적용
+        - JWT(Access Token & Refresh Token) 적용
+        - 회원 인증/인가 전반적인 부분
 
 ---
 
